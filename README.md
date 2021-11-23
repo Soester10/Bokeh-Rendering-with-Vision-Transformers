@@ -2,6 +2,7 @@
 Establishing new state-of-the-art results for Bokeh Rendering on the EBB! Dataset.
 
 Sample:
+
 <img src="Examples/BRViT_sample1.jfif" />
 
 Model adapted from https://github.com/isl-org/DPT
