@@ -1,5 +1,5 @@
 # Bokeh-Rendering-with-Vision-Transformers
-Establishing new state-of-the-art results for Bokeh Rendering on the EBB! Dataset.
+Establishing new state-of-the-art results for Bokeh Rendering on the EBB! Dataset. The preprint of our work can be found [here](https://www.techrxiv.org/articles/preprint/Bokeh_Effect_Rendering_with_Vision_Transformers/17714849)
 
 ### Sample:
 
