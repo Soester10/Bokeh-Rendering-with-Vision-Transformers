@@ -631,7 +631,7 @@ class BRViT(BaseModel):
         enable_attention_hooks=False,
     ):
 
-        super(DPT, self).__init__()
+        super(BRViT, self).__init__()
 
         self.channels_last = channels_last
 
