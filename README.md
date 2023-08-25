@@ -29,3 +29,12 @@ Common Metrics with the latest weights for model comparison:
 1. PSNR: 24.76
 2. SSIM: 0.8904
 3. LPIPS: 0.1924
+
+
+### Dataset
+
+Training: [https://data.vision.ee.ethz.ch/timofter/AIM19Bokeh/Training.zip](https://data.vision.ee.ethz.ch/timofter/AIM19Bokeh/Training.zip)
+
+Validation: [https://data.vision.ee.ethz.ch/timofter/AIM19Bokeh/ValidationBokehFree.zip](https://data.vision.ee.ethz.ch/timofter/AIM19Bokeh/ValidationBokehFree.zip)
+
+Testing: [https://data.vision.ee.ethz.ch/timofter/AIM19Bokeh/TestBokehFree.zip](https://data.vision.ee.ethz.ch/timofter/AIM19Bokeh/TestBokehFree.zip)
